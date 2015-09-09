@@ -1,0 +1,26 @@
+{
+  "name": "gamething",
+  "version": "1.0.0",
+  "description": "A local gamething.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drhayes/gamething.git"
+  },
+  "author": "David Hayes <drhayes@gmail.com> (http://drhayes.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drhayes/gamething/issues"
+  },
+  "homepage": "https://github.com/drhayes/gamething#readme",
+  "dependencies": {
+    "browserify-middleware": "^7.0.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1"
+  }
+}
