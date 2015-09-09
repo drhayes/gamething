@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/drhayes/gamething#readme",
   "dependencies": {
+    "babelify": "^6.3.0",
     "browserify-middleware": "^7.0.0",
     "ejs": "^2.3.4",
     "express": "^4.13.3",
